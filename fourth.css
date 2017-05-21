@@ -6,7 +6,8 @@ body {
   }
 
 .header_bg {
-	background: url('http://dawnraybould.github.io/nebula.jpg.bg') repeat-x scroll 0 0;
+	background: url('https://dawnraybould.github.io/nebula.jpg.bg') repeat-x scroll 0 0;
+	color: white;
 	
 }
 
@@ -16,7 +17,8 @@ body {
 
 .navbar-default .navbar-brand {
     color: white;
- }
+}
+
 .figure {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -31,4 +33,8 @@ h4 {
  }
 hr {
 	margin-bottom: 50px;
+}
+
+.post-heading > h1 {
+	color: white;
 }
